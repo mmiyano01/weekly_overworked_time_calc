@@ -1,10 +1,7 @@
 # Weekly Overworked Time Calculator
-
-26/06/2018 <br />
-Masato Miyano
-
+Date: 26/06/2018 <br />
+Author: Masato Miyano
 ## Required
-
   * Ruby 2.2.0 or above
   * Active Support
 
