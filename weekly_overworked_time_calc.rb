@@ -25,10 +25,10 @@ class Main
 		days.times do |d|
 			puts "#{d+1}日目の勤務開始、終了時間を入力してください。"
 			print "開始時間(hh:mm): "
-			start_time = gets
+			started_time = gets
 			print "終了時間(hh:mm): "
-			end_time = gets
-			time_info.add_time(start_time,end_time)
+			ended_time = gets
+			time_info.add_time(started_time,ended_time)
 			puts "#{d+1}日目の残業時間: #{time_info.total_time}"
 			puts ""
 		end
