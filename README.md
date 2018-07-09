@@ -1,15 +1,12 @@
-Weekly Overworked Time Calculator
+# Weekly Overworked Time Calculator
+Date: 26/06/2018 <br />
+Author: Masato Miyano
+## Required
+  * Ruby 2.2.0 or above
+  * Active Support
 
-26/06/2018
-Masato Miyano
-
---------
-Required
---------
-Ruby above 2.2.0 or above
-Active Support
-----------
-How to run
-----------
+## How to run
+```
 ruby weekly_overworked_time_calc.rb
+```
 
